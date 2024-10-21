@@ -1,0 +1,5 @@
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "hugo-theme-console"
+baseURL = "https://amitav-krishna.github.io"
+publishDir = "docs"
