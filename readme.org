@@ -3,6 +3,6 @@ My name is Amitav Krishna! Here's a little bit about me:
 
 - I enjoy mathematics,
 - I enjoy programming,
-- I enjoy riding my bicycle.
-
-Right now, I'm working on [[github.com/amitav-krishna/llm-from-scratch][building an LLM from scratch]] in C++ using just the standard library. You can find my website at [[amitav.net]].
+- I enjoy riding my bicycle,
+- I'm currently working on making vibecode-resistant interview questions for [[8090.ai][8090 Solutions]].
+Right now, I'm also working on [[github.com/amitav-krishna/llm-from-scratch][building an LLM from scratch]] in C++ using just the standard library. You can find my website at [[amitav.net]].
