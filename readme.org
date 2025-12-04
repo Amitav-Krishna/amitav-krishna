@@ -1,8 +1,7 @@
 * Hello!
 My name is Amitav Krishna! Here's a little bit about me:
+- I'm currently working on making vibecode-resistant interview questions for [[https://8090.ai][8090 Solutions]],
+- I'm researching novel architecture-loss combinations for quantum error reduction to reduce Cloud computing costs for researchers. You can see my very scuffed draft [[https://amitav.net/paper_v1.5.pdf][here]] and my GitHub for this [[https://github.com/amitav-krishna/transformer_for_reducing_quantum_noise][here]],
+- On the side, I'm using Google Jules to build a decentralized, BitTorrent-like protocol for AI inference. [[https://github.com/amitav-krishna/gpu_torrent][GitHub]].
 
-- I enjoy mathematics,
-- I enjoy programming,
-- I enjoy riding my bicycle,
-- I'm currently working on making vibecode-resistant interview questions for [[https://8090.ai][8090 Solutions]].
-Right now, I'm also working on [[https://github.com/amitav-krishna/llm-from-scratch][building an LLM from scratch]] in C++ using just the standard library. You can find my website at [[amitav.net]].
+Email me: amitavkrishna@proton.me (home), akrishna0511@bhncdsb.ca (school), amitav@8090.inc (work)
