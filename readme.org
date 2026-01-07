@@ -4,4 +4,7 @@ My name is Amitav Krishna! Here's a little bit about me:
 - I'm researching novel architecture-loss combinations for quantum error reduction to reduce Cloud computing costs for researchers. You can see my very scuffed draft [[https://amitav.net/paper_v1.5.pdf][here]] and my GitHub for this [[https://github.com/amitav-krishna/transformer_for_reducing_quantum_noise][here]],
 - On the side, I'm using Google Jules to build a decentralized, BitTorrent-like protocol for AI inference. [[https://github.com/amitav-krishna/gpu_torrent][GitHub]].
 
-Email me: amitavkrishna@proton.me (home), akrishna0511@bhncdsb.ca (school), amitav@8090.inc (work)
+Email me: amitavkrishna@proton.me (home), akrishna0511@bhncdsb.ca (school), amitav@8090.inc (work). Resume @ [[https://amitav.net/resume][my webiste]].
+
+Live long and /prosper/!
+
